@@ -61,7 +61,7 @@ If the library is hosted at a git repository, e.g.https://github.com/GIT_USER_ID
 then install it via:
 
 ```shell
-    npm install GIT_USER_ID/GIT_REPO_ID --save
+    npm https://github.com/Dayone-Joint-Stock-Company/gotit-api-javascript-sdk.git --save
 ```
 
 ### For browser
