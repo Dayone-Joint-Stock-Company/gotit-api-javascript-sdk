@@ -1,4 +1,4 @@
-# GotitApiSdkJavascript.VOUCHERSENDSMSRESPONSE
+# GotitApiJavascriptSdk.VOUCHERSENDSMSRESPONSE
 
 ## Properties
 

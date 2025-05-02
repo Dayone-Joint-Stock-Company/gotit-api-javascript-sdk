@@ -1,4 +1,4 @@
-# GotitApiSdkJavascript.PRODUCTSRESPONSEDataInner
+# GotitApiJavascriptSdk.PRODUCTSRESPONSEDataInner
 
 ## Properties
 

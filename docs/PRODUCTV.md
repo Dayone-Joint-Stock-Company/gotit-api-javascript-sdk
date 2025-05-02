@@ -1,4 +1,4 @@
-# GotitApiSdkJavascript.PRODUCTV
+# GotitApiJavascriptSdk.PRODUCTV
 
 ## Properties
 

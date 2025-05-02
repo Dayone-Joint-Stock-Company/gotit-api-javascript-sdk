@@ -1,4 +1,4 @@
-# GotitApiSdkJavascript.VoucherApi
+# GotitApiJavascriptSdk.VoucherApi
 
 All URIs are relative to *https://api-biz-stg.gotit.vn*
 
@@ -21,12 +21,12 @@ Create voucher link e
 ### Example
 
 ```javascript
-import GotitApiSdkJavascript from 'gotit_api_sdk_javascript';
+import GotitApiJavascriptSdk from 'gotit-api-javascript-sdk';
 
-let apiInstance = new GotitApiSdkJavascript.VoucherApi();
+let apiInstance = new GotitApiJavascriptSdk.VoucherApi();
 let xGIAuthorization = "API key GotIt provided"; // String | Authorization
 let opts = {
-  'REQUESTCREATEVOUCHERLINKE': new GotitApiSdkJavascript.REQUESTCREATEVOUCHERLINKE() // REQUESTCREATEVOUCHERLINKE | 
+  'REQUESTCREATEVOUCHERLINKE': new GotitApiJavascriptSdk.REQUESTCREATEVOUCHERLINKE() // REQUESTCREATEVOUCHERLINKE | 
 };
 apiInstance.createVoucherLinkE(xGIAuthorization, opts, (error, data, response) => {
   if (error) {
@@ -70,12 +70,12 @@ Create voucher link g
 ### Example
 
 ```javascript
-import GotitApiSdkJavascript from 'gotit_api_sdk_javascript';
+import GotitApiJavascriptSdk from 'gotit-api-javascript-sdk';
 
-let apiInstance = new GotitApiSdkJavascript.VoucherApi();
+let apiInstance = new GotitApiJavascriptSdk.VoucherApi();
 let xGIAuthorization = "API key GotIt provided"; // String | Authorization
 let opts = {
-  'REQUESTCREATEVOUCHERLINKG': new GotitApiSdkJavascript.REQUESTCREATEVOUCHERLINKG() // REQUESTCREATEVOUCHERLINKG | 
+  'REQUESTCREATEVOUCHERLINKG': new GotitApiJavascriptSdk.REQUESTCREATEVOUCHERLINKG() // REQUESTCREATEVOUCHERLINKG | 
 };
 apiInstance.createVoucherLinkG(xGIAuthorization, opts, (error, data, response) => {
   if (error) {
@@ -119,12 +119,12 @@ Create voucher link v
 ### Example
 
 ```javascript
-import GotitApiSdkJavascript from 'gotit_api_sdk_javascript';
+import GotitApiJavascriptSdk from 'gotit-api-javascript-sdk';
 
-let apiInstance = new GotitApiSdkJavascript.VoucherApi();
+let apiInstance = new GotitApiJavascriptSdk.VoucherApi();
 let xGIAuthorization = "API key GotIt provided"; // String | Authorization
 let opts = {
-  'REQUESTCREATEVOUCHERLINKV': new GotitApiSdkJavascript.REQUESTCREATEVOUCHERLINKV() // REQUESTCREATEVOUCHERLINKV | 
+  'REQUESTCREATEVOUCHERLINKV': new GotitApiJavascriptSdk.REQUESTCREATEVOUCHERLINKV() // REQUESTCREATEVOUCHERLINKV | 
 };
 apiInstance.createVoucherLinkV(xGIAuthorization, opts, (error, data, response) => {
   if (error) {

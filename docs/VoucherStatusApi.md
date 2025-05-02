@@ -1,4 +1,4 @@
-# GotitApiSdkJavascript.VoucherStatusApi
+# GotitApiJavascriptSdk.VoucherStatusApi
 
 All URIs are relative to *https://api-biz-stg.gotit.vn*
 
@@ -19,9 +19,9 @@ Check voucher status
 ### Example
 
 ```javascript
-import GotitApiSdkJavascript from 'gotit_api_sdk_javascript';
+import GotitApiJavascriptSdk from 'gotit-api-javascript-sdk';
 
-let apiInstance = new GotitApiSdkJavascript.VoucherStatusApi();
+let apiInstance = new GotitApiJavascriptSdk.VoucherStatusApi();
 let xGIAuthorization = "API key GotIt provided"; // String | Authorization
 let refId = "voucher_0711_102"; // String | Transaction RefId
 let opts = {

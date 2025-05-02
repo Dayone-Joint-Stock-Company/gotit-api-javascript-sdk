@@ -1,4 +1,4 @@
-# GotitApiSdkJavascript.PRODUCTVENDORLINKG
+# GotitApiJavascriptSdk.PRODUCTVENDORLINKG
 
 ## Properties
 

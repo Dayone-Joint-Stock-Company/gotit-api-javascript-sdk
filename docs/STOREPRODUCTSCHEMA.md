@@ -1,4 +1,4 @@
-# GotitApiSdkJavascript.STOREPRODUCTSCHEMA
+# GotitApiJavascriptSdk.STOREPRODUCTSCHEMA
 
 ## Properties
 

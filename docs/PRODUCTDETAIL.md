@@ -1,4 +1,4 @@
-# GotitApiSdkJavascript.PRODUCTDETAIL
+# GotitApiJavascriptSdk.PRODUCTDETAIL
 
 ## Properties
 

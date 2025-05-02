@@ -1,4 +1,4 @@
-# GotitApiSdkJavascript.VoucherSendMethodApi
+# GotitApiJavascriptSdk.VoucherSendMethodApi
 
 All URIs are relative to *https://api-biz-stg.gotit.vn*
 
@@ -22,12 +22,12 @@ Check status zns
 ### Example
 
 ```javascript
-import GotitApiSdkJavascript from 'gotit_api_sdk_javascript';
+import GotitApiJavascriptSdk from 'gotit-api-javascript-sdk';
 
-let apiInstance = new GotitApiSdkJavascript.VoucherSendMethodApi();
+let apiInstance = new GotitApiJavascriptSdk.VoucherSendMethodApi();
 let xGIAuthorization = "API key GotIt provided"; // String | Authorization
 let opts = {
-  'REQUESTCHECKSTATUSZNS': new GotitApiSdkJavascript.REQUESTCHECKSTATUSZNS() // REQUESTCHECKSTATUSZNS | 
+  'REQUESTCHECKSTATUSZNS': new GotitApiJavascriptSdk.REQUESTCHECKSTATUSZNS() // REQUESTCHECKSTATUSZNS | 
 };
 apiInstance.checkStatusZNS(xGIAuthorization, opts, (error, data, response) => {
   if (error) {
@@ -71,12 +71,12 @@ Send voucher by mail
 ### Example
 
 ```javascript
-import GotitApiSdkJavascript from 'gotit_api_sdk_javascript';
+import GotitApiJavascriptSdk from 'gotit-api-javascript-sdk';
 
-let apiInstance = new GotitApiSdkJavascript.VoucherSendMethodApi();
+let apiInstance = new GotitApiJavascriptSdk.VoucherSendMethodApi();
 let xGIAuthorization = "API key GotIt provided"; // String | Authorization
 let opts = {
-  'REQUESTSENDVOUCHERBYEMAIL': new GotitApiSdkJavascript.REQUESTSENDVOUCHERBYEMAIL() // REQUESTSENDVOUCHERBYEMAIL | 
+  'REQUESTSENDVOUCHERBYEMAIL': new GotitApiJavascriptSdk.REQUESTSENDVOUCHERBYEMAIL() // REQUESTSENDVOUCHERBYEMAIL | 
 };
 apiInstance.sendVoucherByEmail(xGIAuthorization, opts, (error, data, response) => {
   if (error) {
@@ -120,11 +120,11 @@ Send voucher by sms
 ### Example
 
 ```javascript
-import GotitApiSdkJavascript from 'gotit_api_sdk_javascript';
+import GotitApiJavascriptSdk from 'gotit-api-javascript-sdk';
 
-let apiInstance = new GotitApiSdkJavascript.VoucherSendMethodApi();
+let apiInstance = new GotitApiJavascriptSdk.VoucherSendMethodApi();
 let xGIAuthorization = "API key GotIt provided"; // String | Authorization
-let REQUESTSENDVOUCHERBYSMS = new GotitApiSdkJavascript.REQUESTSENDVOUCHERBYSMS(); // REQUESTSENDVOUCHERBYSMS | 
+let REQUESTSENDVOUCHERBYSMS = new GotitApiJavascriptSdk.REQUESTSENDVOUCHERBYSMS(); // REQUESTSENDVOUCHERBYSMS | 
 apiInstance.sendVoucherBySMS(xGIAuthorization, REQUESTSENDVOUCHERBYSMS, (error, data, response) => {
   if (error) {
     console.error(error);
@@ -167,12 +167,12 @@ Send voucher by zns
 ### Example
 
 ```javascript
-import GotitApiSdkJavascript from 'gotit_api_sdk_javascript';
+import GotitApiJavascriptSdk from 'gotit-api-javascript-sdk';
 
-let apiInstance = new GotitApiSdkJavascript.VoucherSendMethodApi();
+let apiInstance = new GotitApiJavascriptSdk.VoucherSendMethodApi();
 let xGIAuthorization = "API key GotIt provided"; // String | Authorization
 let opts = {
-  'REQUESTSENDVOUCHERBYZNS': new GotitApiSdkJavascript.REQUESTSENDVOUCHERBYZNS() // REQUESTSENDVOUCHERBYZNS | 
+  'REQUESTSENDVOUCHERBYZNS': new GotitApiJavascriptSdk.REQUESTSENDVOUCHERBYZNS() // REQUESTSENDVOUCHERBYZNS | 
 };
 apiInstance.sendVoucherByZNS(xGIAuthorization, opts, (error, data, response) => {
   if (error) {

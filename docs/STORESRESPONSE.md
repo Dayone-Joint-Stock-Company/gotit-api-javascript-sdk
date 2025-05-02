@@ -1,4 +1,4 @@
-# GotitApiSdkJavascript.STORESRESPONSE
+# GotitApiJavascriptSdk.STORESRESPONSE
 
 ## Properties
 

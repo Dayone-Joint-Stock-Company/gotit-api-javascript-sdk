@@ -90,9 +90,9 @@ import VoucherStatusApi from './api/VoucherStatusApi';
 * <p>
 * An AMD (recommended!) or CommonJS application will generally do something equivalent to the following:
 * <pre>
-* var GotitApiSdkJavascript = require('index'); // See note below*.
-* var xxxSvc = new GotitApiSdkJavascript.XxxApi(); // Allocate the API class we're going to use.
-* var yyyModel = new GotitApiSdkJavascript.Yyy(); // Construct a model instance.
+* var GotitApiJavascriptSdk = require('index'); // See note below*.
+* var xxxSvc = new GotitApiJavascriptSdk.XxxApi(); // Allocate the API class we're going to use.
+* var yyyModel = new GotitApiJavascriptSdk.Yyy(); // Construct a model instance.
 * yyyModel.someProperty = 'someValue';
 * ...
 * var zzz = xxxSvc.doSomething(yyyModel); // Invoke the service.
@@ -104,8 +104,8 @@ import VoucherStatusApi from './api/VoucherStatusApi';
 * <p>
 * A non-AMD browser application (discouraged) might do something like this:
 * <pre>
-* var xxxSvc = new GotitApiSdkJavascript.XxxApi(); // Allocate the API class we're going to use.
-* var yyy = new GotitApiSdkJavascript.Yyy(); // Construct a model instance.
+* var xxxSvc = new GotitApiJavascriptSdk.XxxApi(); // Allocate the API class we're going to use.
+* var yyy = new GotitApiJavascriptSdk.Yyy(); // Construct a model instance.
 * yyyModel.someProperty = 'someValue';
 * ...
 * var zzz = xxxSvc.doSomething(yyyModel); // Invoke the service.

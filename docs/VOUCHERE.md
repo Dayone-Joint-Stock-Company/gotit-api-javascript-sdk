@@ -1,4 +1,4 @@
-# GotitApiSdkJavascript.VOUCHERE
+# GotitApiJavascriptSdk.VOUCHERE
 
 ## Properties
 

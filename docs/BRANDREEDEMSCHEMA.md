@@ -1,4 +1,4 @@
-# GotitApiSdkJavascript.BRANDREEDEMSCHEMA
+# GotitApiJavascriptSdk.BRANDREEDEMSCHEMA
 
 ## Properties
 

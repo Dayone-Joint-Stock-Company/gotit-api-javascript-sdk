@@ -1,4 +1,4 @@
-# GotitApiSdkJavascript.USAGEMETHODSCHEMA
+# GotitApiJavascriptSdk.USAGEMETHODSCHEMA
 
 ## Properties
 

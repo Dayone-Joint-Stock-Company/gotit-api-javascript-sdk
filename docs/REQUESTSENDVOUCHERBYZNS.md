@@ -1,4 +1,4 @@
-# GotitApiSdkJavascript.REQUESTSENDVOUCHERBYZNS
+# GotitApiJavascriptSdk.REQUESTSENDVOUCHERBYZNS
 
 ## Properties
 

@@ -1,4 +1,4 @@
-# GotitApiSdkJavascript.HTTPINTERNALSERVERERROR
+# GotitApiJavascriptSdk.HTTPINTERNALSERVERERROR
 
 ## Properties
 

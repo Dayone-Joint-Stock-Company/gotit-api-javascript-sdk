@@ -1,4 +1,4 @@
-# GotitApiSdkJavascript.VOUCHERGSCHEMA
+# GotitApiJavascriptSdk.VOUCHERGSCHEMA
 
 ## Properties
 

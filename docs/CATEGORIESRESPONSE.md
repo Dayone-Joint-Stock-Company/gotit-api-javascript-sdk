@@ -1,4 +1,4 @@
-# GotitApiSdkJavascript.CATEGORIESRESPONSE
+# GotitApiJavascriptSdk.CATEGORIESRESPONSE
 
 ## Properties
 

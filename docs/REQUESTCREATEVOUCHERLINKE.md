@@ -1,4 +1,4 @@
-# GotitApiSdkJavascript.REQUESTCREATEVOUCHERLINKE
+# GotitApiJavascriptSdk.REQUESTCREATEVOUCHERLINKE
 
 ## Properties
 

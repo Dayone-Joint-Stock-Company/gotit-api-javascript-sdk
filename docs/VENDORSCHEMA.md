@@ -1,4 +1,4 @@
-# GotitApiSdkJavascript.VENDORSCHEMA
+# GotitApiJavascriptSdk.VENDORSCHEMA
 
 ## Properties
 

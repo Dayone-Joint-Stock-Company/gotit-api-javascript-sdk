@@ -1,4 +1,4 @@
-# GotitApiSdkJavascript.VOUCHERG
+# GotitApiJavascriptSdk.VOUCHERG
 
 ## Properties
 

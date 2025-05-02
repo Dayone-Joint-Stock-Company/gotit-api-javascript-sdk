@@ -1,4 +1,4 @@
-# GotitApiSdkJavascript.BrandsApi
+# GotitApiJavascriptSdk.BrandsApi
 
 All URIs are relative to *https://api-biz-stg.gotit.vn*
 
@@ -21,9 +21,9 @@ Returns brand detail data master
 ### Example
 
 ```javascript
-import GotitApiSdkJavascript from 'gotit_api_sdk_javascript';
+import GotitApiJavascriptSdk from 'gotit-api-javascript-sdk';
 
-let apiInstance = new GotitApiSdkJavascript.BrandsApi();
+let apiInstance = new GotitApiJavascriptSdk.BrandsApi();
 let xGIAuthorization = "API key GotIt provided"; // String | Authorization
 apiInstance.brandsByProducts(xGIAuthorization, (error, data, response) => {
   if (error) {
@@ -66,9 +66,9 @@ Returns brand detail data master
 ### Example
 
 ```javascript
-import GotitApiSdkJavascript from 'gotit_api_sdk_javascript';
+import GotitApiJavascriptSdk from 'gotit-api-javascript-sdk';
 
-let apiInstance = new GotitApiSdkJavascript.BrandsApi();
+let apiInstance = new GotitApiJavascriptSdk.BrandsApi();
 let xGIAuthorization = "API key GotIt provided"; // String | Authorization
 let id = 46; // Number | Brand Id
 apiInstance.getDetailOfBrand(xGIAuthorization, id, (error, data, response) => {
@@ -113,9 +113,9 @@ Retrieve a list of brands
 ### Example
 
 ```javascript
-import GotitApiSdkJavascript from 'gotit_api_sdk_javascript';
+import GotitApiJavascriptSdk from 'gotit-api-javascript-sdk';
 
-let apiInstance = new GotitApiSdkJavascript.BrandsApi();
+let apiInstance = new GotitApiJavascriptSdk.BrandsApi();
 let xGIAuthorization = "API key GotIt provided"; // String | Authorization
 apiInstance.getListOfBrands(xGIAuthorization, (error, data, response) => {
   if (error) {

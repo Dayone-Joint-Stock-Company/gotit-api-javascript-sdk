@@ -1,4 +1,4 @@
-# GotitApiSdkJavascript.HTTPBADREQUEST
+# GotitApiJavascriptSdk.HTTPBADREQUEST
 
 ## Properties
 

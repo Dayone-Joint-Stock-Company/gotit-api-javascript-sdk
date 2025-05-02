@@ -1,4 +1,4 @@
-# GotitApiSdkJavascript.PRODUCTSDEFAULTLINKG
+# GotitApiJavascriptSdk.PRODUCTSDEFAULTLINKG
 
 ## Properties
 

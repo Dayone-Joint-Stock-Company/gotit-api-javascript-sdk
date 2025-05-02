@@ -1,4 +1,4 @@
-# GotitApiSdkJavascript.VOUCHERV
+# GotitApiJavascriptSdk.VOUCHERV
 
 ## Properties
 

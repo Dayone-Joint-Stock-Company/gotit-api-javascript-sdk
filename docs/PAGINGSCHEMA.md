@@ -1,4 +1,4 @@
-# GotitApiSdkJavascript.PAGINGSCHEMA
+# GotitApiJavascriptSdk.PAGINGSCHEMA
 
 ## Properties
 

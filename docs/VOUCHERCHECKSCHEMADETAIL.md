@@ -1,4 +1,4 @@
-# GotitApiSdkJavascript.VOUCHERCHECKSCHEMADETAIL
+# GotitApiJavascriptSdk.VOUCHERCHECKSCHEMADETAIL
 
 ## Properties
 

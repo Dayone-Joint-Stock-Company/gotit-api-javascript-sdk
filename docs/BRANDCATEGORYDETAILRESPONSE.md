@@ -1,4 +1,4 @@
-# GotitApiSdkJavascript.BRANDCATEGORYDETAILRESPONSE
+# GotitApiJavascriptSdk.BRANDCATEGORYDETAILRESPONSE
 
 ## Properties
 

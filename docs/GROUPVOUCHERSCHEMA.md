@@ -1,4 +1,4 @@
-# GotitApiSdkJavascript.GROUPVOUCHERSCHEMA
+# GotitApiJavascriptSdk.GROUPVOUCHERSCHEMA
 
 ## Properties
 

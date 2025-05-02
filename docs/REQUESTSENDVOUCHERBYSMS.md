@@ -1,4 +1,4 @@
-# GotitApiSdkJavascript.REQUESTSENDVOUCHERBYSMS
+# GotitApiJavascriptSdk.REQUESTSENDVOUCHERBYSMS
 
 ## Properties
 

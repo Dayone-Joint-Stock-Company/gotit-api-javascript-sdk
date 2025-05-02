@@ -1,4 +1,4 @@
-# GotitApiSdkJavascript.BRANDDETAIL
+# GotitApiJavascriptSdk.BRANDDETAIL
 
 ## Properties
 

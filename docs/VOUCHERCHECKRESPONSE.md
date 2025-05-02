@@ -1,4 +1,4 @@
-# GotitApiSdkJavascript.VOUCHERCHECKRESPONSE
+# GotitApiJavascriptSdk.VOUCHERCHECKRESPONSE
 
 ## Properties
 

@@ -1,4 +1,4 @@
-# GotitApiSdkJavascript.HTTPNOTFOUND
+# GotitApiJavascriptSdk.HTTPNOTFOUND
 
 ## Properties
 

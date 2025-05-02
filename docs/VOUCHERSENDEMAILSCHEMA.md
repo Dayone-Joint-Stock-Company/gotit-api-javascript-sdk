@@ -1,4 +1,4 @@
-# GotitApiSdkJavascript.VOUCHERSENDEMAILSCHEMA
+# GotitApiJavascriptSdk.VOUCHERSENDEMAILSCHEMA
 
 ## Properties
 

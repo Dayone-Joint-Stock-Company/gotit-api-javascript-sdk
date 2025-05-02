@@ -1,4 +1,4 @@
-# GotitApiSdkJavascript.HTTPUNAUTHORIZED
+# GotitApiJavascriptSdk.HTTPUNAUTHORIZED
 
 ## Properties
 

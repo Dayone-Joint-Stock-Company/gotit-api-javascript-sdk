@@ -1,4 +1,4 @@
-# GotitApiSdkJavascript.CategoriesApi
+# GotitApiJavascriptSdk.CategoriesApi
 
 All URIs are relative to *https://api-biz-stg.gotit.vn*
 
@@ -20,9 +20,9 @@ Returns all categories data master
 ### Example
 
 ```javascript
-import GotitApiSdkJavascript from 'gotit_api_sdk_javascript';
+import GotitApiJavascriptSdk from 'gotit-api-javascript-sdk';
 
-let apiInstance = new GotitApiSdkJavascript.CategoriesApi();
+let apiInstance = new GotitApiJavascriptSdk.CategoriesApi();
 let xGIAuthorization = "API key GotIt provided"; // String | Authorization
 apiInstance.getCategoryByProduct(xGIAuthorization, (error, data, response) => {
   if (error) {
@@ -65,9 +65,9 @@ Returns all categories data master
 ### Example
 
 ```javascript
-import GotitApiSdkJavascript from 'gotit_api_sdk_javascript';
+import GotitApiJavascriptSdk from 'gotit-api-javascript-sdk';
 
-let apiInstance = new GotitApiSdkJavascript.CategoriesApi();
+let apiInstance = new GotitApiJavascriptSdk.CategoriesApi();
 let xGIAuthorization = "API key GotIt provided"; // String | Authorization
 apiInstance.getListOfCategories(xGIAuthorization, (error, data, response) => {
   if (error) {
