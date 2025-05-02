@@ -1,4 +1,4 @@
-# SampleApi.BRANDREEDEMSCHEMA
+# GotitApiSdkJavascript.BRANDREEDEMSCHEMA
 
 ## Properties
 

@@ -1,4 +1,4 @@
-# SampleApi.REQUESTCREATEVOUCHERLINKV
+# GotitApiSdkJavascript.REQUESTCREATEVOUCHERLINKV
 
 ## Properties
 

@@ -1,4 +1,4 @@
-# SampleApi.VOUCHERSENDEMAILRESPONSE
+# GotitApiSdkJavascript.VOUCHERSENDEMAILRESPONSE
 
 ## Properties
 

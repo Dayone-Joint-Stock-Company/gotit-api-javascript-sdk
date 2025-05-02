@@ -1,4 +1,4 @@
-# SampleApi.REQUESTCHECKSTATUSZNS
+# GotitApiSdkJavascript.REQUESTCHECKSTATUSZNS
 
 ## Properties
 

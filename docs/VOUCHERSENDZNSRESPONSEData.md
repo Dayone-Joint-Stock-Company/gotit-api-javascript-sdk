@@ -1,4 +1,4 @@
-# SampleApi.VOUCHERSENDZNSRESPONSEData
+# GotitApiSdkJavascript.VOUCHERSENDZNSRESPONSEData
 
 ## Properties
 

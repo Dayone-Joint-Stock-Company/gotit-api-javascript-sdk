@@ -1,4 +1,4 @@
-# SampleApi.HTTPINTERNALSERVERERROR
+# GotitApiSdkJavascript.HTTPINTERNALSERVERERROR
 
 ## Properties
 

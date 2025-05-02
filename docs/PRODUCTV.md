@@ -1,4 +1,4 @@
-# SampleApi.PRODUCTV
+# GotitApiSdkJavascript.PRODUCTV
 
 ## Properties
 

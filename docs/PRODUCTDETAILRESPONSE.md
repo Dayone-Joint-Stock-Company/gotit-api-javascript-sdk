@@ -1,4 +1,4 @@
-# SampleApi.PRODUCTDETAILRESPONSE
+# GotitApiSdkJavascript.PRODUCTDETAILRESPONSE
 
 ## Properties
 

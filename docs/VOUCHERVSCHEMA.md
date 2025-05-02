@@ -1,4 +1,4 @@
-# SampleApi.VOUCHERVSCHEMA
+# GotitApiSdkJavascript.VOUCHERVSCHEMA
 
 ## Properties
 

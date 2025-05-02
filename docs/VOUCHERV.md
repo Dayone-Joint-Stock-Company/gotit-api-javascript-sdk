@@ -1,4 +1,4 @@
-# SampleApi.VOUCHERV
+# GotitApiSdkJavascript.VOUCHERV
 
 ## Properties
 

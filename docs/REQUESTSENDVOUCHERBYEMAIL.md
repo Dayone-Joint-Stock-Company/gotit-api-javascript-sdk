@@ -1,4 +1,4 @@
-# SampleApi.REQUESTSENDVOUCHERBYEMAIL
+# GotitApiSdkJavascript.REQUESTSENDVOUCHERBYEMAIL
 
 ## Properties
 

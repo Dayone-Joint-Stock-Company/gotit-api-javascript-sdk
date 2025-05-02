@@ -1,4 +1,4 @@
-# SampleApi.PRODUCTSRESPONSEDataInner
+# GotitApiSdkJavascript.PRODUCTSRESPONSEDataInner
 
 ## Properties
 

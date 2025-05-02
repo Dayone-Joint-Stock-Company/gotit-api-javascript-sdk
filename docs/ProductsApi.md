@@ -1,4 +1,4 @@
-# SampleApi.ProductsApi
+# GotitApiSdkJavascript.ProductsApi
 
 All URIs are relative to *https://api-biz-stg.gotit.vn*
 
@@ -21,9 +21,9 @@ Returns all products master data
 ### Example
 
 ```javascript
-import SampleApi from 'sample_api';
+import GotitApiSdkJavascript from 'gotit_api_sdk_javascript';
 
-let apiInstance = new SampleApi.ProductsApi();
+let apiInstance = new GotitApiSdkJavascript.ProductsApi();
 let xGIAuthorization = "API key GotIt provided"; // String | Authorization
 let page = 1; // Number | Page
 let pageSize = 200; // Number | Page Size
@@ -82,9 +82,9 @@ Returns product detail data
 ### Example
 
 ```javascript
-import SampleApi from 'sample_api';
+import GotitApiSdkJavascript from 'gotit_api_sdk_javascript';
 
-let apiInstance = new SampleApi.ProductsApi();
+let apiInstance = new GotitApiSdkJavascript.ProductsApi();
 let xGIAuthorization = "API key GotIt provided"; // String | Authorization
 let id = 1541; // Number | Product ID
 let opts = {
@@ -137,9 +137,9 @@ Returns all stores of this product
 ### Example
 
 ```javascript
-import SampleApi from 'sample_api';
+import GotitApiSdkJavascript from 'gotit_api_sdk_javascript';
 
-let apiInstance = new SampleApi.ProductsApi();
+let apiInstance = new GotitApiSdkJavascript.ProductsApi();
 let xGIAuthorization = "API key GotIt provided"; // String | Authorization
 let id = 1541; // Number | Product ID
 apiInstance.getStoresOfProduct(xGIAuthorization, id, (error, data, response) => {

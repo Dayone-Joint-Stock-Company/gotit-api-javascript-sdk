@@ -1,4 +1,4 @@
-# SampleApi.STORESRESPONSEDataInner
+# GotitApiSdkJavascript.STORESRESPONSEDataInner
 
 ## Properties
 

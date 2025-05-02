@@ -1,4 +1,4 @@
-# SampleApi.PRODUCTPRICESCHEMA
+# GotitApiSdkJavascript.PRODUCTPRICESCHEMA
 
 ## Properties
 

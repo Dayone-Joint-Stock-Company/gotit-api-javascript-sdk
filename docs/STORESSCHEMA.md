@@ -1,4 +1,4 @@
-# SampleApi.STORESSCHEMA
+# GotitApiSdkJavascript.STORESSCHEMA
 
 ## Properties
 

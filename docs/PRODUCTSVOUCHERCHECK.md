@@ -1,4 +1,4 @@
-# SampleApi.PRODUCTSVOUCHERCHECK
+# GotitApiSdkJavascript.PRODUCTSVOUCHERCHECK
 
 ## Properties
 

@@ -1,4 +1,4 @@
-# SampleApi.PRODUCTG
+# GotitApiSdkJavascript.PRODUCTG
 
 ## Properties
 

@@ -1,4 +1,4 @@
-# SampleApi.VOUCHERSENDSMSSCHEMA
+# GotitApiSdkJavascript.VOUCHERSENDSMSSCHEMA
 
 ## Properties
 

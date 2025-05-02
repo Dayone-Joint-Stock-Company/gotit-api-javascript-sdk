@@ -1,4 +1,4 @@
-# SampleApi.CATEGORIESDETAIL
+# GotitApiSdkJavascript.CATEGORIESDETAIL
 
 ## Properties
 

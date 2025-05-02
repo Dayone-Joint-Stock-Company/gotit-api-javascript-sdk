@@ -1,4 +1,4 @@
-# SampleApi.BRANDSRESPONSE
+# GotitApiSdkJavascript.BRANDSRESPONSE
 
 ## Properties
 

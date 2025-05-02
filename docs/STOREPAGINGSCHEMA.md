@@ -1,4 +1,4 @@
-# SampleApi.STOREPAGINGSCHEMA
+# GotitApiSdkJavascript.STOREPAGINGSCHEMA
 
 ## Properties
 

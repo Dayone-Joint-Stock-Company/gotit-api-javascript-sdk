@@ -1,4 +1,4 @@
-# SampleApi.VOUCHERCHECKZNSRESPONSE
+# GotitApiSdkJavascript.VOUCHERCHECKZNSRESPONSE
 
 ## Properties
 
