@@ -233,18 +233,7 @@ PRIVATE_KEY_STR=your_private_key
 docker-compose up --build
 ```
 
-The server will start and be available at `http://localhost:5003`
-
 ### Available Endpoints
-
-#### Voucher Link E
-```bash
-# Create a voucher link type E
-GET http://localhost:5003/vouchers/e
-
-# With custom parameters
-GET http://localhost:5003/vouchers/e?productId=1541
-
 
 The example application will be available at `http://localhost:5003`
 ### Available Endpoints
@@ -282,7 +271,7 @@ The example application will be available at `http://localhost:5003`
 2. If the container fails to start:
    - Check the Docker logs: `docker-compose logs`
    - Ensure all required environment variables are set
-   - Verify port 3000 is not in use by another application
+   - Verify port 5003 is not in use by another application
 
 3. If you need to rebuild the container:
    ```bash
